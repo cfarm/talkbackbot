@@ -10,6 +10,7 @@ CHANNEL = "#channel_name"
 # Trigger phrases, in lowercase
 TRIGGERS = (
     "that's what she said",
+	"twss"
     )
 
 # Process settings
